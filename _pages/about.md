@@ -26,7 +26,7 @@ My research focuses on **Large Language Models (LLMs)**, with particular interes
 
 I am currently a **Research Intern** at the **ERNIE Foundation Model Team, Baidu**, and previously worked as a **Visiting Researcher** at the **German Research Center for Artificial Intelligence (DFKI)**.
 
-I have published first-author papers at **ICML, ACL, ACL Findings, NeurIPS, AAAI, and DASFAA**.
+I have published first-author papers at **ICML, NeurIPS, ACL, ACL Findings, AAAI, and DASFAA**.
 
 📧 **Email:** [shidan@tju.edu.cn](mailto:shidan@tju.edu.cn)
 
@@ -47,7 +47,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 * **May. 2025** Started visiting the **German Research Center for Artificial Intelligence (DFKI)**.
 * **Sep. 2024** 🎉 One paper accepted to **NeurIPS 2024**.
 * **Dec. 2023** 🎉 One paper accepted to **AAAI 2024**.
-* **Apr. 2022** 🎉 One paper accepted to **AAAI 2024**.
+* **Apr. 2022** 🎉 One paper accepted to **DASFAA 2022**.
 
 
 # 💼 Internships
@@ -56,7 +56,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 **ERNIE Foundation Model Team, Baidu**
 *May 2026 – Present*
 
-Research on LLM post-training, reinforcement learning, safety alignment, and multilingual alignment.
+Research on Coding Agent post-training, reinforcement learning.
 
 **Visiting Researcher**
 **German Research Center for Artificial Intelligence (DFKI)**
@@ -68,14 +68,13 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 
 ## 🔍 Research Interests
 
-* Large Language Models
+* LLM Coding Agents
 * LLM Post-training
 * Reinforcement Learning for LLMs
 * Safety Alignment
 * Mechanistic Interpretability
 * Multilingual LLMs
 * Hallucination Mitigation
-* LLM Agents
 
 
 # 📝 Selected Publications
@@ -84,7 +83,7 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 
 **Multilingual Safety Alignment via Representation-Space Separability**
 
-**Dan Shi**, *et al.*
+**Dan Shi** *, Zhuowen Han *, Deyi Xiong.
 
 * Proposes a representation-space optimization framework for multilingual safety alignment by transferring safety capability from high-resource languages to low-resource languages.
 
@@ -94,7 +93,7 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 
 **Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models**
 
-**Dan Shi**, *et al.*
+**Dan Shi**, Zhuowen Han, Simon Ostermann, Renren Jin, Josef van Genabith, Deyi Xiong.
 
 * Reveals why reinforcement learning achieves stronger generalization than supervised fine-tuning through sparse feature analysis and causal intervention.
 
@@ -104,7 +103,7 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 
 **Neuronal Insights into LLM Attacks: Targeted Neuron Tuning for Precise and Efficient Vulnerability Patching**
 
-**Dan Shi**, *et al.*
+**Dan Shi**, Renren Jin, Zhuowen Han, Yuqi Ren, Xinwei Wu, Zhigen Li, Deyi Xiong.
 
 * Introduces Targeted Neuron Tuning (TNT), an efficient neuron-level safety alignment method against jailbreak attacks.
 
@@ -113,7 +112,7 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 
 **IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons**
 
-**Dan Shi**, *et al.*
+**Dan Shi**, Renren Jin, Tianhao Shen, Weilong Dong, Xinwei Wu, Deyi Xiong.
 
 * Identifies context-aware neurons to mitigate hallucinations caused by conflicts between contextual and parametric knowledge.
 
@@ -123,7 +122,7 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 
 **CORECODE: A Common Sense Annotated Dialogue Dataset with Benchmark Tasks for Chinese Large Language Models**
 
-**Dan Shi**, *et al.*
+**Dan Shi**, Chaobin You, Jiantao Huang, Taihao Li, Deyi Xiong.
 
 * Constructs a large-scale benchmark for evaluating commonsense reasoning in Chinese LLMs.
 
@@ -133,7 +132,7 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 
 **Counterfactual-guided and Curiosity-driven Multi-Hop Reasoning over Knowledge Graph**
 
-**Dan Shi**, *et al.*
+**Dan Shi**, Anchen Li, Bo Yang.
 
 * Proposes a reinforcement learning framework for knowledge graph reasoning with counterfactual guidance and intrinsic curiosity.
 
@@ -141,8 +140,8 @@ Research on LLM post-training, safety alignment, and mechanistic interpretabilit
 # 🎓 Education
 
 **Tianjin University**
-Ph.D. in Computer Science and Technology
-*Sep. 2022 – Present*
+
+*Sep. 2022 – Present* Ph.D. in Computer Science and Technology
 
 Advisor: Prof. Deyi Xiong
 
@@ -150,9 +149,7 @@ Advisor: Prof. Deyi Xiong
 
 **Jilin University**
 
-M.S. in Computer Software and Theory
-
-*Sep. 2019 – Jun. 2022*
+*Sep. 2019 – Jun. 2022* M.S. in Computer Software and Theory
 
 Advisor: Prof. Bo Yang
 
@@ -160,10 +157,7 @@ Advisor: Prof. Bo Yang
 
 **Nanchang University**
 
-B.Eng. in Computer Science and Technology
-
-*Sep. 2015 – Jun. 2019*
-
+*Sep. 2015 – Jun. 2019* B.Eng. in Computer Science and Technology
 
 
 # 🏆 Honors and Awards
