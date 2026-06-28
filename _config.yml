@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Dan Shi"
 description              : "Ph.D. Candidate at Tianjin University | LLM Post-training | Safety Alignment | Mechanistic Interpretability"
-repository               : "danshi777/danshi.github.io"
+repository               : "danshi777/danshi777.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dan Shi"
   avatar           : "images/123.jpg"
-  bio              : "Ph.D. Candidate at Tianjin University""
+  bio              : "Ph.D. Candidate at Tianjin University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=cO6hdhIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=cO6hdhIAAAAJ"
   email            : "shidan199701@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
