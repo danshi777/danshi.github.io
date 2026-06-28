@@ -35,24 +35,9 @@ I have published first-author papers at **ICML, ACL, ACL Findings, NeurIPS, AAAI
 📄 **Google Scholar:** <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
 
-
 # 📌 Open Positions
 
 I am actively seeking full-time LLM Algorithm Engineer positions, with research and engineering interests in LLM post-training, reinforcement learning for LLMs, and coding agents. Feel free to contact me if you think my background matches your team.
-
-
-
-## 🔍 Research Interests
-
-* Large Language Models
-* LLM Post-training
-* Reinforcement Learning for LLMs
-* Safety Alignment
-* Mechanistic Interpretability
-* Multilingual LLMs
-* Hallucination Mitigation
-* LLM Agents
-
 
 
 # 🔥 News
@@ -66,6 +51,33 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 * **Dec. 2023** 🎉 One paper accepted to **AAAI 2024**.
 * **Apr. 2022** 🎉 One paper accepted to **AAAI 2024**.
 
+
+# 💼 Internships
+
+**Research Intern**
+**ERNIE Foundation Model Team, Baidu**
+*May 2026 – Present*
+
+Research on LLM post-training, reinforcement learning, safety alignment, and multilingual alignment.
+
+**Visiting Researcher**
+**German Research Center for Artificial Intelligence (DFKI)**
+*May 2025 – May 2026*
+
+Research on LLM post-training, safety alignment, and mechanistic interpretability.
+
+
+
+## 🔍 Research Interests
+
+* Large Language Models
+* LLM Post-training
+* Reinforcement Learning for LLMs
+* Safety Alignment
+* Mechanistic Interpretability
+* Multilingual LLMs
+* Hallucination Mitigation
+* LLM Agents
 
 
 # 📝 Selected Publications
@@ -126,23 +138,6 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 **Dan Shi**, *et al.*
 
 * Proposes a reinforcement learning framework for knowledge graph reasoning with counterfactual guidance and intrinsic curiosity.
-
-
-
-# 💼 Experience
-
-**Research Intern**
-**ERNIE Foundation Model Team, Baidu**
-*May 2026 – Present*
-
-Research on LLM post-training, reinforcement learning, safety alignment, and multilingual alignment.
-
-**Visiting Researcher**
-**German Research Center for Artificial Intelligence (DFKI)**
-*May 2025 – May 2026*
-
-Research on LLM post-training, safety alignment, and mechanistic interpretability.
-
 
 
 # 🎓 Education
