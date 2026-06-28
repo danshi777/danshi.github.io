@@ -34,13 +34,13 @@ I have published first-author papers at **ICML, ACL, ACL Findings, NeurIPS, AAAI
 
 📄 **Google Scholar:** <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Google Scholar <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
----
+
 
 # 📌 Open Positions
 
 I am actively seeking full-time LLM Algorithm Engineer positions, with research and engineering interests in LLM post-training, reinforcement learning for LLMs, and coding agents. Feel free to contact me if you think my background matches your team.
 
----
+
 
 ## 🔍 Research Interests
 
@@ -53,7 +53,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 * Hallucination Mitigation
 * LLM Agents
 
----
+
 
 # 🔥 News
 
@@ -66,7 +66,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 * **Dec. 2023** 🎉 One paper accepted to **AAAI 2024**.
 * **Apr. 2022** 🎉 One paper accepted to **AAAI 2024**.
 
----
+
 
 # 📝 Selected Publications
 
@@ -78,7 +78,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 
 * Proposes a representation-space optimization framework for multilingual safety alignment by transferring safety capability from high-resource languages to low-resource languages.
 
----
+
 
 ### ACL 2026
 
@@ -88,7 +88,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 
 * Reveals why reinforcement learning achieves stronger generalization than supervised fine-tuning through sparse feature analysis and causal intervention.
 
----
+
 
 ### ACL Findings 2026
 
@@ -98,7 +98,6 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 
 * Introduces Targeted Neuron Tuning (TNT), an efficient neuron-level safety alignment method against jailbreak attacks.
 
----
 
 ### NeurIPS 2024
 
@@ -108,7 +107,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 
 * Identifies context-aware neurons to mitigate hallucinations caused by conflicts between contextual and parametric knowledge.
 
----
+
 
 ### AAAI 2024
 
@@ -118,7 +117,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 
 * Constructs a large-scale benchmark for evaluating commonsense reasoning in Chinese LLMs.
 
----
+
 
 ### DASFAA 2022
 
@@ -128,7 +127,7 @@ I am actively seeking full-time LLM Algorithm Engineer positions, with research 
 
 * Proposes a reinforcement learning framework for knowledge graph reasoning with counterfactual guidance and intrinsic curiosity.
 
----
+
 
 # 💼 Experience
 
@@ -144,7 +143,7 @@ Research on LLM post-training, reinforcement learning, safety alignment, and mul
 
 Research on LLM post-training, safety alignment, and mechanistic interpretability.
 
----
+
 
 # 🎓 Education
 
@@ -154,7 +153,7 @@ Ph.D. in Computer Science and Technology
 
 Advisor: Prof. Deyi Xiong
 
----
+
 
 **Jilin University**
 
@@ -164,7 +163,7 @@ M.S. in Computer Software and Theory
 
 Advisor: Prof. Bo Yang
 
----
+
 
 **Nanchang University**
 
@@ -172,7 +171,7 @@ B.Eng. in Computer Science and Technology
 
 *Sep. 2015 – Jun. 2019*
 
----
+
 
 # 🏆 Honors and Awards
 
@@ -181,5 +180,3 @@ B.Eng. in Computer Science and Technology
 * Outstanding Master's Thesis, Jilin University
 * Outstanding Undergraduate Graduate, Nanchang University
 * National Encouragement Scholarship (Three Times)
-
----
